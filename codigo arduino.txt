@@ -22,4 +22,8 @@ void loop()
   Serial.print("human_resistance=");
   Serial.println(human_resistance);
   delay(2000);
-}
+}   
+
+
+
+repositorio clonado y modificado 
